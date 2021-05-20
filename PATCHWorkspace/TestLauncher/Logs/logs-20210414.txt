@@ -1,0 +1,20 @@
+2021-04-14 09:51:09.227 +04:00 [INF] [LauncherBase.cs::StartUpdateProcess@109] ===> [Game updating] process STARTED! <===
+2021-04-14 09:51:13.628 +04:00 [ERR] [LauncherBase.cs::StartUpdateProcess@130] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2021-04-14 10:12:30.794 +04:00 [INF] [LauncherBase.cs::StartUpdateProcess@109] ===> [Game updating] process STARTED! <===
+2021-04-14 10:12:30.897 +04:00 [ERR] [LauncherBase.cs::StartUpdateProcess@130] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2021-04-14 10:12:47.553 +04:00 [INF] [LauncherBase.cs::StartUpdateProcess@109] ===> [Game updating] process STARTED! <===
+2021-04-14 10:12:47.653 +04:00 [ERR] [LauncherBase.cs::StartUpdateProcess@130] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2021-04-14 10:13:17.675 +04:00 [INF] [LauncherBase.cs::StartUpdateProcess@109] ===> [Game updating] process STARTED! <===
+2021-04-14 10:13:17.777 +04:00 [ERR] [LauncherBase.cs::StartUpdateProcess@130] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2021-04-14 10:13:23.937 +04:00 [INF] [LauncherBase.cs::StartUpdateProcess@109] ===> [Game updating] process STARTED! <===
+2021-04-14 10:13:24.035 +04:00 [ERR] [LauncherBase.cs::StartUpdateProcess@130] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2021-04-14 10:16:19.784 +04:00 [INF] [LauncherBase.cs::StartUpdateProcess@109] ===> [Game updating] process STARTED! <===
+2021-04-14 10:16:58.396 +04:00 [ERR] [LauncherBase.cs::StartUpdateProcess@130] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2021-04-14 10:24:29.082 +04:00 [INF] [LauncherBase.cs::StartUpdateProcess@109] ===> [Game updating] process STARTED! <===
+2021-04-14 10:24:33.389 +04:00 [ERR] [LauncherBase.cs::StartUpdateProcess@130] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2021-04-14 10:25:02.148 +04:00 [INF] [LauncherBase.cs::StartUpdateProcess@109] ===> [Game updating] process STARTED! <===
+2021-04-14 10:25:40.487 +04:00 [ERR] [LauncherBase.cs::StartUpdateProcess@130] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2021-04-14 10:25:51.850 +04:00 [INF] [LauncherBase.cs::StartUpdateProcess@109] ===> [Game updating] process STARTED! <===
+2021-04-14 10:25:51.954 +04:00 [ERR] [LauncherBase.cs::StartUpdateProcess@130] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+2021-04-14 10:26:01.611 +04:00 [INF] [LauncherBase.cs::StartUpdateProcess@109] ===> [Game updating] process STARTED! <===
+2021-04-14 10:26:46.136 +04:00 [ERR] [LauncherBase.cs::StartUpdateProcess@130] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
